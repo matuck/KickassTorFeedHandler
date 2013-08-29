@@ -2,7 +2,7 @@
     "name": "matuck/kickasstorfeedhandler",
     "type": "library",
     "description":  "Process torrent feeds from kickass torrents into usable items",
-    "keywords": ["torrent, rss, feed, TorFeed, kickass torrents"],
+    "keywords": ["torrent, rss, feed, TorFeed, kickasstorrents"],
     "license": "GPL-v3",
     "homepage": "https://github.com/matuck/KickassTorFeedHandler.git",
     "authors": [
